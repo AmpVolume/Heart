@@ -16,6 +16,7 @@ color("#D00D0D")
 pensize(2)
 hideturtle()
 
+#creats smoother animation
 tracer(5, 0)
 
 # Draw the heart shape using radial strokes
