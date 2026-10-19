@@ -16,8 +16,10 @@ color("#D00D0D")
 pensize(2)
 hideturtle()
 
+tracer(5, 0)
+
 # Draw the heart shape using radial strokes
-for i in range(10000):
+for i in range(610):
     k = i / 100  # smooth parametric increment
     x = heart_x(k) * 20
     y = heart_y(k) * 20
@@ -29,4 +31,3 @@ for i in range(10000):
     goto(0, 0)   # return to center
 
 done()
-
