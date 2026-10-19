@@ -1,5 +1,3 @@
----
-
 # Heart Curve Turtle Visualization
 
 This project is a Python program that uses 
@@ -11,7 +9,7 @@ artistic visual effect.
 
 ---
 
-## ❤️ Project Purpose
+## Project Purpose
 
 The goal of this project is to:
 
@@ -26,7 +24,7 @@ creating a glowing, textured heart effect.
 
 ---
 
-## 🧮 How It Works
+## How It Works
 
 * The heart shape is defined using parametric equations:
 
@@ -38,7 +36,7 @@ creating a glowing, textured heart effect.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Python 3**
 * Standard Library Modules:
@@ -50,7 +48,7 @@ No third-party libraries are required.
 
 ---
 
-## 🚀 How to Run the Program (Terminal)
+## How to Run the Program (Terminal)
 
 ### 1. Clone the Repository
 
@@ -80,7 +78,7 @@ A new window will open and the heart will be drawn automatically.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 heart-curve-turtle/
@@ -91,7 +89,7 @@ heart-curve-turtle/
 
 ---
 
-## 🎨 Visual Details
+## Visual Details
 
 * Background: Black
 * Stroke color: Deep red
@@ -100,7 +98,7 @@ heart-curve-turtle/
 
 ---
 
-## 🔧 Possible Enhancements
+## Possible Enhancements
 
 * Animate color transitions
 * Add pulsing or heartbeat effects
@@ -109,8 +107,7 @@ heart-curve-turtle/
 
 ---
 
-## 👤 Duncan Doyon
+## Duncan Doyon
 
 Created as a mathematical visualization project 
 exploring the intersection of **art, geometry, and Python 
-
